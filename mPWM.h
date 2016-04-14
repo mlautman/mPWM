@@ -2,7 +2,7 @@
 #define __M_PWM
 
 #include "mGeneral.h"
-#include "mBus.h"
+#include "m_bus.h"
 
 #define 	_MODE1		0x00
 #define 	_Mode_1		0b00101110
